@@ -136,7 +136,8 @@ box.send(fonts.sans("Hi, this is a message"));
 ``cooldown:`` Wherein it sends a message cooldown to avoid spamming.
 
 <h1>CREDITS</h1>
+
 <sub><p>• Special thanks to those persons helped me out finished this Project Botfile</p></sub>
 
 > - Francis Loyd Raval
-> - Rui Reogo
+> - Liane Cagara
