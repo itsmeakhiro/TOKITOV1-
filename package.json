@@ -1,0 +1,29 @@
+{
+  "name": "tokito-bot",
+  "version": "1.0.0",
+  "description": "A revolutionized messenger chatbA revolutionized messenger Chatbots Chatbot developed by AkhiroTEAM",
+  "main": "spawner.js",
+  "scripts": {
+    "test": "node spawn.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmeakhiro/TOKITOV1-.git"
+  },
+  "author": "AkhiroTEAM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmeakhiro/TOKITOV1-/issues"
+  },
+  "homepage": "https://github.com/itsmeakhiro/TOKITOV1-#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "ws3-fca": "^1.0.41"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.9.36",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.7"
+  }
+}
